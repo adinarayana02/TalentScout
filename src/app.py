@@ -914,7 +914,7 @@ def main():
     st.markdown("""
         <div class="header" style="display: flex; align-items: center; justify-content: flex-start;">
             <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQGCiZMIlz11RQ/articleshare-shrink_800/articleshare-shrink_800/0/1726493729138?e=2147483647&v=beta&t=X4CjNTCk4wWBzv0k32n5T5a68PKapDMEIu6zJ833Eig" 
-                 alt="TalentScout Logo" style="margin-right: 15px; height: 50px;"/>
+                 alt="TalentScout Logo" style="margin-right: 30px; height: 50px;"/>
             <div>
                 <h1 style="margin: 0; color: white;">TalentScout AI Assistant</h1>
                 <p style="color: white; margin: 0;">Your AI-powered technical interviewer</p>
