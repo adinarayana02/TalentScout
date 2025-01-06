@@ -95,9 +95,6 @@ recruiter-agent/
    - Challenge: Quick response times
    - Solution: Optimized prompt engineering and caching
 
-## See It in Action
-
-Want to see TalentScout AI in action? Check out our [demo video](your-demo-link-here) or try it yourself!
 
 ## Join the Journey
 
