@@ -109,7 +109,7 @@ Found a bug? Have an idea? Want to contribute? We'd love to hear from you!
 ## Let's Connect
 
 - Found an issue? [Report it here](https://github.com/adinarayana02/TalentScout.git)]
-- 
+
 
 ## License
 
