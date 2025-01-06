@@ -656,15 +656,11 @@ def create_personal_info_form():
         # Define form fields
         with col1:
             st.markdown(
-                "<label style='color: black;'>👤 First Name*</label>",
+                "<label style='color: black;'>👤 Full Name*</label>",
                 unsafe_allow_html=True
             )
-            first_name = st.text_input("", key="name")
-            st.markdown(
-                "<label style='color: black;'>👤 Last Name*</label>",
-                unsafe_allow_html=True
-            )
-            Last_name = st.text_input("", key="name")
+            full_name = st.text_input("", key="name")
+            
 
             st.markdown(
                 "<label style='color: black;'>✉️ Email Address*</label>",
