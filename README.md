@@ -1,12 +1,5 @@
 # TalentScout AI: Your Smart Hiring Assistant 
 
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/streamlit-1.28+-orange.svg)](https://streamlit.io/)
-[![Gemini](https://img.shields.io/badge/AI-Gemini--1.5--Flash-green.svg)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-> Meet TalentScout AI - your intelligent companion for technical interviews, powered by Google's cutting-edge Gemini-1.5-Flash model! 
-
 ## What is TalentScout AI?
 
 TalentScout AI revolutionizes the technical interview process by acting as your smart hiring assistant. It's designed to make technical interviews more efficient, consistent, and insightful. Whether you're screening candidates for Python, JavaScript, or any other tech stack, TalentScout AI has got you covered!
@@ -18,15 +11,6 @@ TalentScout AI revolutionizes the technical interview process by acting as your 
 - Creates detailed interview summaries
 - Maintains natural, context-aware conversations
 
-## Built With Love Using
-
-- **Frontend:** Streamlit - for a clean, responsive UI
-- **Brain:** Google's Gemini-1.5-Flash - our AI powerhouse
-- **Backend:** Python 3.8+ - keeping things fast and reliable
-- **Reports:** ReportLab - for professional PDF summaries
-- **Experience:** Streamlit Session State - for smooth conversations
-
-## Getting Started
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -38,8 +22,8 @@ TalentScout AI revolutionizes the technical interview process by acting as your 
 
 1. **Clone & Enter:**
 ```bash
-git clone https://github.com/Pandurangmopgar/recruiter-agent.git
-cd recruiter-agent
+git clone https://github.com/adinarayana02/TalentScout.git
+cd TalentScout
 ```
 
 2. **Set Up Your Environment:**
@@ -127,13 +111,10 @@ Found a bug? Have an idea? Want to contribute? We'd love to hear from you!
 
 ## Let's Connect
 
-- Found an issue? [Report it here](https://github.com/Pandurangmopgar/recruiter-agent/issues)
-- Questions? Email me at pandurangmopgar7410@gmail.com
-- Want to contribute? Check our [contribution guidelines](CONTRIBUTING.md)
+- Found an issue? [Report it here](https://github.com/adinarayana02/TalentScout.git)]
+- 
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-Built with by [Pandurang Mopgar](https://github.com/Pandurangmopgar)
